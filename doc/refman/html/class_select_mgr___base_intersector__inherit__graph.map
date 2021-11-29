@@ -1,0 +1,11 @@
+<map id="SelectMgr_BaseIntersector" name="SelectMgr_BaseIntersector">
+<area shape="rect" id="node3" href="$class_select_mgr___axis_intersector.html" title="This class contains representation of selecting axis, created in case of point selection and algorith..." alt="" coords="415,31,589,57"/>
+<area shape="rect" id="node4" href="$class_select_mgr___base_frustum.html" title="This class is an interface for different types of selecting frustums, defining different selection ty..." alt="" coords="419,81,585,108"/>
+<area shape="rect" id="node2" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node5" href="$class_select_mgr___frustum.html" title="This is an internal class containing representation of rectangular selecting frustum, created in case of point and box selection, and algorithms for overlap detection between selecting frustum and sensitive entities. The principle of frustum calculation: " alt="" coords="659,5,828,32"/>
+<area shape="rect" id="node6" href="$class_select_mgr___frustum.html" title="SelectMgr_Frustum\&lt; 3 \&gt;" alt="" coords="660,56,827,83"/>
+<area shape="rect" id="node8" href="$class_select_mgr___frustum.html" title="SelectMgr_Frustum\&lt; 4 \&gt;" alt="" coords="660,107,827,133"/>
+<area shape="rect" id="node10" href="$class_select_mgr___triangular_frustum_set.html" title="This class is used to handle polyline selection. The main principle of polyline selection algorithm i..." alt="" coords="637,157,849,184"/>
+<area shape="rect" id="node7" href="$class_select_mgr___triangular_frustum.html" title="This class contains representation of triangular selecting frustum, created in case of polyline selec..." alt="" coords="904,56,1096,83"/>
+<area shape="rect" id="node9" href="$class_select_mgr___rectangular_frustum.html" title="This class contains representation of rectangular selecting frustum, created in case of point and box..." alt="" coords="897,107,1103,133"/>
+</map>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{F033710C-03F4-04D9-16E0-13339CA154A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{BCA4E17E-0742-17AE-0DA5-262702CB09EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\XDEDRAW">
+      <UniqueIdentifier>{F87CF42D-1548-027B-07A8-D9A40BA0D3BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\XDEDRAW">
+      <UniqueIdentifier>{AD49B9BC-03D4-1127-0925-5A2F94E9CA59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Colors.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Common.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_GDTs.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Layers.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Notes.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Props.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Shapes.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XDEDRAW\XDEDRAW_Views.cxx">
+      <Filter>Source files\XDEDRAW</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Colors.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Common.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_GDTs.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Layers.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Notes.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Props.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Shapes.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XDEDRAW\XDEDRAW_Views.hxx">
+      <Filter>Header files\XDEDRAW</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TKXDEDRAW.rc" />
+  </ItemGroup>
+</Project>

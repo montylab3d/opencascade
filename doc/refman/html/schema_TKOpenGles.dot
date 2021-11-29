@@ -1,0 +1,11 @@
+digraph schema_TKOpenGles
+{
+	TKOpenGles [ URL = "toolkit_tkopengles.html", shape = box ]
+	TKernel [ URL = "toolkit_tkernel.html" , shape = box ]
+	TKOpenGles -> TKernel [ color = "midnightblue", style = "solid" ]
+	TKService [ URL = "toolkit_tkservice.html" , shape = box ]
+	TKOpenGles -> TKService [ color = "midnightblue", style = "solid" ]
+	TKMath [ URL = "toolkit_tkmath.html" , shape = box ]
+	TKOpenGles -> TKMath [ color = "midnightblue", style = "solid" ]
+	aspect = 1
+}

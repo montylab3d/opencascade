@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TKService" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="../../../mac/clang/lib/libTKService.so" prefix_auto="0" extension_auto="0" />
+				<Option type="3" />
+				<Option object_output="../../../mac/clang/obj" />
+				<Option compiler="gcc" />
+				<Option createDefFile="0" />
+				<Option createStaticLib="0" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DNDEBUG" />
+					<Add option="-DNo_Exception" />
+				</Compiler>
+				<Linker>
+					<Add directory="../../../mac/clang/lib" />
+					<Add option="$(CSF_OPT_LNK64)" />
+				</Linker>
+			</Target>
+			<Target title="Debug">
+				<Option output="../../../mac/clang/libd/libTKService.so" prefix_auto="0" extension_auto="0" />
+				<Option type="3" />
+				<Option object_output="../../../mac/clang/objd" />
+				<Option compiler="gcc" />
+				<Option createDefFile="0" />
+				<Option createStaticLib="0" />
+				<Compiler>
+					<Add option="-O0" />
+					<Add option="-g" />
+					<Add option="-D_DEBUG" />
+				</Compiler>
+				<Linker>
+					<Add directory="../../../mac/clang/libd" />
+					<Add option="$(CSF_OPT_LNK64D)" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-mmmx" />
+			<Add option="-msse" />
+			<Add option="-msse2" />
+			<Add option="-mfpmath=sse" />
+			<Add option="-std=c++0x" />
+			<Add option="-fPIC" />
+			<Add option="-DOCC_CONVERT_SIGNALS" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="$(CSF_OPT_CMPL)" />
+			<Add directory="../../../inc" />
+		</Compiler>
+		<Linker>
+			<Add option="-framework OpenGL" />
+			<Add option="-framework AppKit" />
+			<Add option="-framework IOKit" />
+			<Add library="objc" />
+			<Add library="freetype" />
+			<Add library="TKernel" />
+			<Add library="TKMath" />
+		</Linker>
+		<Unit filename="../../../src/Aspect/Aspect_Background.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_CircularGrid.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_DisplayConnection.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_GenId.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_GradientBackground.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_Grid.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_NeutralWindow.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_OpenVRSession.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_RectangularGrid.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_VKeySet.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_Window.cxx" />
+		<Unit filename="../../../src/Aspect/Aspect_XRSession.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ArrayOfPrimitives.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_AspectFillArea3d.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_AspectLine3d.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_AspectMarker3d.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_AspectText3d.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Aspects.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_AttribBuffer.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_BSDF.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Buffer.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_BvhCStructureSet.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_BvhCStructureSetTrsfPers.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CLight.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CStructure.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CView.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Camera.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CameraTile.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ClipPlane.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CubeMap.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CubeMapOrder.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CubeMapPacked.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CubeMapSeparate.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_CullingTool.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_DataStructureManager.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_FrameStats.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_FrameStatsData.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_GraphicDriver.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Group.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_HatchStyle.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Layer.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_LightSet.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_MarkerImage.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_MaterialAspect.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_MediaTexture.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_MediaTextureSet.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_PBRMaterial.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_PolygonOffset.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_PresentationAttributes.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_RenderingParams.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_SequenceOfHClipPlane.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ShaderAttribute.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ShaderObject.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ShaderProgram.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ShaderVariable.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Structure.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_StructureManager.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Text.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Texture1D.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Texture1Dmanual.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Texture1Dsegment.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Texture2D.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Texture2Dmanual.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Texture2Dplane.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_TextureEnv.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_TextureMap.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_TextureParams.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_TextureRoot.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_TextureSet.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_TransformPers.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_Vertex.cxx" />
+		<Unit filename="../../../src/Graphic3d/Graphic3d_ViewAffinity.cxx" />
+		<Unit filename="../../../src/Xw/Xw_Window.cxx" />
+		<Unit filename="../../../src/Image/Image_AlienPixMap.cxx" />
+		<Unit filename="../../../src/Image/Image_DDSParser.cxx" />
+		<Unit filename="../../../src/Image/Image_Diff.cxx" />
+		<Unit filename="../../../src/Image/Image_PixMap.cxx" />
+		<Unit filename="../../../src/Image/Image_SupportedFormats.cxx" />
+		<Unit filename="../../../src/Image/Image_Texture.cxx" />
+		<Unit filename="../../../src/Image/Image_VideoRecorder.cxx" />
+		<Unit filename="../../../src/Media/Media_BufferPool.cxx" />
+		<Unit filename="../../../src/Media/Media_CodecContext.cxx" />
+		<Unit filename="../../../src/Media/Media_FormatContext.cxx" />
+		<Unit filename="../../../src/Media/Media_Frame.cxx" />
+		<Unit filename="../../../src/Media/Media_Packet.cxx" />
+		<Unit filename="../../../src/Media/Media_PlayerContext.cxx" />
+		<Unit filename="../../../src/Media/Media_Scaler.cxx" />
+		<Unit filename="../../../src/Media/Media_Timer.cxx" />
+		<Unit filename="../../../src/WNT/WNT_HIDSpaceMouse.cxx" />
+		<Unit filename="../../../src/WNT/WNT_WClass.cxx" />
+		<Unit filename="../../../src/WNT/WNT_Window.cxx" />
+		<Unit filename="../../../src/Cocoa/Cocoa_LocalPool.mm">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="../../../src/Cocoa/Cocoa_Window.mm">
+			<Option compile="1" />
+			<Option link="1" />
+		</Unit>
+		<Unit filename="../../../src/Font/Font_FTFont.cxx" />
+		<Unit filename="../../../src/Font/Font_FTLibrary.cxx" />
+		<Unit filename="../../../src/Font/Font_FontMgr.cxx" />
+		<Unit filename="../../../src/Font/Font_SystemFont.cxx" />
+		<Unit filename="../../../src/Font/Font_TextFormatter.cxx" />
+	</Project>
+</CodeBlocks_project_file>

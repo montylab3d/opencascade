@@ -1,0 +1,13 @@
+<map id="StepKinematics_LowOrderKinematicPairWithMotionCoupling" name="StepKinematics_LowOrderKinematicPairWithMotionCoupling">
+<area shape="rect" id="node6" href="$class_step_kinematics___gear_pair.html" title="Representation of STEP entity GearPair. " alt="" coords="1305,13,1477,39"/>
+<area shape="rect" id="node8" href="$class_step_kinematics___linear_flexible_and_pinion_pair.html" title="Representation of STEP entity LinearFlexibleAndPinionPair. " alt="" coords="1291,64,1492,105"/>
+<area shape="rect" id="node9" href="$class_step_kinematics___rack_and_pinion_pair.html" title="Representation of STEP entity RackAndPinionPair. " alt="" coords="1275,130,1508,157"/>
+<area shape="rect" id="node11" href="$class_step_kinematics___screw_pair.html" title="Representation of STEP entity ScrewPair. " alt="" coords="1301,187,1481,214"/>
+<area shape="rect" id="node2" href="$class_step_kinematics___kinematic_pair.html" title="Representation of STEP entity KinematicPair. " alt="" coords="741,101,944,127"/>
+<area shape="rect" id="node3" href="$class_step_geom___geometric_representation_item.html" title="StepGeom_GeometricRepresentationItem" alt="" coords="431,101,693,127"/>
+<area shape="rect" id="node4" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="188,101,383,127"/>
+<area shape="rect" id="node5" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,101,140,127"/>
+<area shape="rect" id="node7" href="$class_step_kinematics___gear_pair_with_range.html" title="Representation of STEP entity GearPairWithRange. " alt="" coords="1562,5,1761,47"/>
+<area shape="rect" id="node10" href="$class_step_kinematics___rack_and_pinion_pair_with_range.html" title="Representation of STEP entity RackAndPinionPairWithRange. " alt="" coords="1556,119,1767,160"/>
+<area shape="rect" id="node12" href="$class_step_kinematics___screw_pair_with_range.html" title="Representation of STEP entity ScrewPairWithRange. " alt="" coords="1571,184,1751,225"/>
+</map>

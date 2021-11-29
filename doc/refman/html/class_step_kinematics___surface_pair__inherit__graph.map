@@ -1,0 +1,10 @@
+<map id="StepKinematics_SurfacePair" name="StepKinematics_SurfacePair">
+<area shape="rect" id="node7" href="$class_step_kinematics___rolling_surface_pair.html" title="Representation of STEP entity RollingSurfacePair. " alt="" coords="1455,5,1681,32"/>
+<area shape="rect" id="node8" href="$class_step_kinematics___sliding_surface_pair.html" title="Representation of STEP entity SlidingSurfacePair. " alt="" coords="1455,56,1681,83"/>
+<area shape="rect" id="node9" href="$class_step_kinematics___surface_pair_with_range.html" title="Representation of STEP entity SurfacePairWithRange. " alt="" coords="1474,107,1662,149"/>
+<area shape="rect" id="node2" href="$class_step_kinematics___high_order_kinematic_pair.html" title="Representation of STEP entity HighOrderKinematicPair. " alt="" coords="992,49,1171,90"/>
+<area shape="rect" id="node3" href="$class_step_kinematics___kinematic_pair.html" title="Representation of STEP entity KinematicPair. " alt="" coords="741,56,944,83"/>
+<area shape="rect" id="node4" href="$class_step_geom___geometric_representation_item.html" title="StepGeom_GeometricRepresentationItem" alt="" coords="431,56,693,83"/>
+<area shape="rect" id="node5" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="188,56,383,83"/>
+<area shape="rect" id="node6" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,56,140,83"/>
+</map>

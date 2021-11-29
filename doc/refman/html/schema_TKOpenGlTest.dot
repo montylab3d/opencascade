@@ -1,0 +1,19 @@
+digraph schema_TKOpenGlTest
+{
+	TKOpenGlTest [ URL = "toolkit_tkopengltest.html", shape = box ]
+	TKernel [ URL = "toolkit_tkernel.html" , shape = box ]
+	TKOpenGlTest -> TKernel [ color = "midnightblue", style = "solid" ]
+	TKMath [ URL = "toolkit_tkmath.html" , shape = box ]
+	TKOpenGlTest -> TKMath [ color = "midnightblue", style = "solid" ]
+	TKDraw [ URL = "toolkit_tkdraw.html" , shape = box ]
+	TKOpenGlTest -> TKDraw [ color = "midnightblue", style = "solid" ]
+	TKOpenGl [ URL = "toolkit_tkopengl.html" , shape = box ]
+	TKOpenGlTest -> TKOpenGl [ color = "midnightblue", style = "solid" ]
+	TKService [ URL = "toolkit_tkservice.html" , shape = box ]
+	TKOpenGlTest -> TKService [ color = "midnightblue", style = "solid" ]
+	TKV3d [ URL = "toolkit_tkv3d.html" , shape = box ]
+	TKOpenGlTest -> TKV3d [ color = "midnightblue", style = "solid" ]
+	TKViewerTest [ URL = "toolkit_tkviewertest.html" , shape = box ]
+	TKOpenGlTest -> TKViewerTest [ color = "midnightblue", style = "solid" ]
+	aspect = 1
+}

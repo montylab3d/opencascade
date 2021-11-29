@@ -1,0 +1,5 @@
+<map id="BRepAdaptor_Curve2d" name="BRepAdaptor_Curve2d">
+<area shape="rect" id="node2" href="$class_geom2d_adaptor___curve.html" title="An interface between the services provided by any curve from the package Geom2d and those required of..." alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node3" href="$class_adaptor2d___curve2d.html" title="Root class for 2D curves on which geometric algorithms work. An adapted curve is an interface between..." alt="" coords="15,80,150,107"/>
+<area shape="rect" id="node4" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="15,5,150,32"/>
+</map>

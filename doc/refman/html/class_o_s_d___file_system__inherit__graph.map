@@ -1,0 +1,6 @@
+<map id="OSD_FileSystem" name="OSD_FileSystem">
+<area shape="rect" id="node3" href="$class_o_s_d___cached_file_system.html" title="File system keeping last stream created by linked file system (OSD_FileSystem::DefaultFileSystem() by..." alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$class_o_s_d___file_system_selector.html" title="File system implementation which tried to open stream using registered list of file systems..." alt="" coords="197,155,367,181"/>
+<area shape="rect" id="node5" href="$class_o_s_d___local_file_system.html" title="A file system opening local files (or files from mount systems). " alt="" coords="391,155,546,181"/>
+<area shape="rect" id="node2" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="215,5,349,32"/>
+</map>

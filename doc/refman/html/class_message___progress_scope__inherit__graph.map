@@ -1,0 +1,4 @@
+<map id="Message_ProgressScope" name="Message_ProgressScope">
+<area shape="rect" id="node2" href="$class_message___lazy_progress_scope.html" title="Progress scope with lazy updates and abort fetches. " alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node3" href="$class_message___progress_sentry.html" title="Functionality of this class (Message_ProgressSentry) has been superseded by Message_ProgressScope. This class is kept just to simplify transition of an old code and will be removed in future. " alt="" coords="228,80,400,107"/>
+</map>

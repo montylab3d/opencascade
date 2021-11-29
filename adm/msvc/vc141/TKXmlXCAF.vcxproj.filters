@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{85D52646-0852-09FF-12B0-EE226413E62D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{6C9B9375-0839-085B-135B-B1408001B73E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\XmlXCAFDrivers">
+      <UniqueIdentifier>{A584FF7B-0E82-1318-10F1-1CC1B8F24AE4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\XmlMXCAFDoc">
+      <UniqueIdentifier>{12E11267-06D3-0455-1683-11404A93EC0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\XmlXCAFDrivers">
+      <UniqueIdentifier>{6EE73D60-1177-0F33-0568-3A507277AB0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\XmlMXCAFDoc">
+      <UniqueIdentifier>{7F6B2765-1984-0179-0CB0-CD26A3A3B707}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\XmlXCAFDrivers\XmlXCAFDrivers.cxx">
+      <Filter>Source files\XmlXCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlXCAFDrivers\XmlXCAFDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>Source files\XmlXCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlXCAFDrivers\XmlXCAFDrivers_DocumentStorageDriver.cxx">
+      <Filter>Source files\XmlXCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_AssemblyItemRefDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_CentroidDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_ColorDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_DatumDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_DimTolDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_GraphNodeDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_LengthUnitDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_LocationDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_MaterialDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_NoteBinDataDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_NoteCommentDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_NoteDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_VisMaterialDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_VisMaterialToolDriver.cxx">
+      <Filter>Source files\XmlMXCAFDoc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\src\XmlXCAFDrivers\XmlXCAFDrivers.hxx">
+      <Filter>Header files\XmlXCAFDrivers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlXCAFDrivers\XmlXCAFDrivers_DocumentRetrievalDriver.hxx">
+      <Filter>Header files\XmlXCAFDrivers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlXCAFDrivers\XmlXCAFDrivers_DocumentStorageDriver.hxx">
+      <Filter>Header files\XmlXCAFDrivers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_AssemblyItemRefDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_CentroidDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_ColorDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_DatumDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_DimTolDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_GraphNodeDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_LengthUnitDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_LocationDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_LocationDriver.lxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_MaterialDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_NoteBinDataDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_NoteCommentDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_NoteDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_VisMaterialDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\XmlMXCAFDoc\XmlMXCAFDoc_VisMaterialToolDriver.hxx">
+      <Filter>Header files\XmlMXCAFDoc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TKXmlXCAF.rc" />
+  </ItemGroup>
+</Project>

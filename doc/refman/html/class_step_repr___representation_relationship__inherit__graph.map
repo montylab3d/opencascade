@@ -1,0 +1,8 @@
+<map id="StepRepr_RepresentationRelationship" name="StepRepr_RepresentationRelationship">
+<area shape="rect" id="node3" href="$class_step_kinematics___kinematic_link_representation_association.html" title="Representation of STEP entity KinematicLinkRepresentationAssociation. " alt="" coords="482,5,683,47"/>
+<area shape="rect" id="node4" href="$class_step_repr___constructive_geometry_representation_relationship.html" title="StepRepr_ConstructiveGeometry\lRepresentationRelationship" alt="" coords="477,71,688,112"/>
+<area shape="rect" id="node5" href="$class_step_repr___shape_representation_relationship.html" title="StepRepr_ShapeRepresentation\lRelationship" alt="" coords="479,136,686,177"/>
+<area shape="rect" id="node2" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,78,140,105"/>
+<area shape="rect" id="node6" href="$class_step_repr___representation_relationship_with_transformation.html" title="StepRepr_RepresentationRelationship\lWithTransformation" alt="" coords="736,136,977,177"/>
+<area shape="rect" id="node7" href="$class_step_repr___shape_representation_relationship_with_transformation.html" title="StepRepr_ShapeRepresentation\lRelationshipWithTransformation" alt="" coords="1025,136,1232,177"/>
+</map>

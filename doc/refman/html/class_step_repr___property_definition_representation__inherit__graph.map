@@ -1,0 +1,9 @@
+<map id="StepRepr_PropertyDefinitionRepresentation" name="StepRepr_PropertyDefinitionRepresentation">
+<area shape="rect" id="node3" href="$class_step_kinematics___kinematic_property_definition_representation.html" title="Representation of STEP entity KinematicPropertyDefinitionRepresentation. " alt="" coords="421,5,632,47"/>
+<area shape="rect" id="node5" href="$class_step_repr___material_property_representation.html" title="Representation of STEP entity MaterialPropertyRepresentation. " alt="" coords="437,71,616,112"/>
+<area shape="rect" id="node7" href="$class_step_repr___structural_response_property_definition_representation.html" title="Representation of STEP entity StructuralResponsePropertyDefinitionRepresentation. ..." alt="" coords="421,136,632,177"/>
+<area shape="rect" id="node8" href="$class_step_shape___shape_definition_representation.html" title="Representation of STEP entity ShapeDefinitionRepresentation. " alt="" coords="435,201,618,243"/>
+<area shape="rect" id="node2" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,111,140,138"/>
+<area shape="rect" id="node4" href="$class_step_kinematics___kinematic_property_mechanism_representation.html" title="Representation of STEP entity KinematicPropertyMechanismRepresentation. " alt="" coords="680,5,905,47"/>
+<area shape="rect" id="node6" href="$class_step_f_e_a___fea_material_property_representation.html" title="Representation of STEP entity FeaMaterialPropertyRepresentation. " alt="" coords="693,71,892,112"/>
+</map>

@@ -1,0 +1,15 @@
+digraph schema_TKD3DHostTest
+{
+	TKD3DHostTest [ URL = "toolkit_tkd3dhosttest.html", shape = box ]
+	TKernel [ URL = "toolkit_tkernel.html" , shape = box ]
+	TKD3DHostTest -> TKernel [ color = "midnightblue", style = "solid" ]
+	TKMath [ URL = "toolkit_tkmath.html" , shape = box ]
+	TKD3DHostTest -> TKMath [ color = "midnightblue", style = "solid" ]
+	TKDraw [ URL = "toolkit_tkdraw.html" , shape = box ]
+	TKD3DHostTest -> TKDraw [ color = "midnightblue", style = "solid" ]
+	TKD3DHost [ URL = "toolkit_tkd3dhost.html" , shape = box ]
+	TKD3DHostTest -> TKD3DHost [ color = "midnightblue", style = "solid" ]
+	TKService [ URL = "toolkit_tkservice.html" , shape = box ]
+	TKD3DHostTest -> TKService [ color = "midnightblue", style = "solid" ]
+	aspect = 1
+}

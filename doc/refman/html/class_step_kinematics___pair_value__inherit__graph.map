@@ -1,0 +1,22 @@
+<map id="StepKinematics_PairValue" name="StepKinematics_PairValue">
+<area shape="rect" id="node5" href="$class_step_kinematics___cylindrical_pair_value.html" title="Representation of STEP entity CylindricalPairValue. " alt="" coords="993,5,1175,47"/>
+<area shape="rect" id="node6" href="$class_step_kinematics___gear_pair_value.html" title="Representation of STEP entity GearPairValue. " alt="" coords="981,71,1187,98"/>
+<area shape="rect" id="node7" href="$class_step_kinematics___low_order_kinematic_pair_value.html" title="Representation of STEP entity LowOrderKinematicPairValue. " alt="" coords="967,123,1201,164"/>
+<area shape="rect" id="node8" href="$class_step_kinematics___planar_pair_value.html" title="Representation of STEP entity PlanarPairValue. " alt="" coords="993,188,1175,229"/>
+<area shape="rect" id="node9" href="$class_step_kinematics___point_on_planar_curve_pair_value.html" title="Representation of STEP entity PointOnPlanarCurvePairValue. " alt="" coords="981,253,1187,295"/>
+<area shape="rect" id="node10" href="$class_step_kinematics___point_on_surface_pair_value.html" title="Representation of STEP entity PointOnSurfacePairValue. " alt="" coords="978,319,1190,360"/>
+<area shape="rect" id="node11" href="$class_step_kinematics___prismatic_pair_value.html" title="Representation of STEP entity PrismaticPairValue. " alt="" coords="996,384,1172,425"/>
+<area shape="rect" id="node12" href="$class_step_kinematics___rack_and_pinion_pair_value.html" title="Representation of STEP entity RackAndPinionPairValue. " alt="" coords="979,449,1189,491"/>
+<area shape="rect" id="node13" href="$class_step_kinematics___revolute_pair_value.html" title="Representation of STEP entity RevolutePairValue. " alt="" coords="987,515,1181,556"/>
+<area shape="rect" id="node14" href="$class_step_kinematics___rolling_curve_pair_value.html" title="Representation of STEP entity RollingCurvePairValue. " alt="" coords="988,580,1180,621"/>
+<area shape="rect" id="node15" href="$class_step_kinematics___rolling_surface_pair_value.html" title="Representation of STEP entity RollingSurfacePairValue. " alt="" coords="982,645,1186,687"/>
+<area shape="rect" id="node16" href="$class_step_kinematics___screw_pair_value.html" title="Representation of STEP entity ScrewPairValue. " alt="" coords="994,711,1174,752"/>
+<area shape="rect" id="node17" href="$class_step_kinematics___sliding_curve_pair_value.html" title="Representation of STEP entity SlidingCurvePairValue. " alt="" coords="988,776,1180,817"/>
+<area shape="rect" id="node18" href="$class_step_kinematics___sliding_surface_pair_value.html" title="Representation of STEP entity SlidingSurfacePairValue. " alt="" coords="982,841,1186,883"/>
+<area shape="rect" id="node19" href="$class_step_kinematics___spherical_pair_value.html" title="Representation of STEP entity SphericalPairValue. " alt="" coords="997,907,1171,948"/>
+<area shape="rect" id="node20" href="$class_step_kinematics___unconstrained_pair_value.html" title="Representation of STEP entity UnconstrainedPairValue. " alt="" coords="982,972,1186,1013"/>
+<area shape="rect" id="node21" href="$class_step_kinematics___universal_pair_value.html" title="Representation of STEP entity UniversalPairValue. " alt="" coords="997,1037,1171,1079"/>
+<area shape="rect" id="node2" href="$class_step_geom___geometric_representation_item.html" title="StepGeom_GeometricRepresentationItem" alt="" coords="431,522,693,549"/>
+<area shape="rect" id="node3" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="188,522,383,549"/>
+<area shape="rect" id="node4" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,522,140,549"/>
+</map>

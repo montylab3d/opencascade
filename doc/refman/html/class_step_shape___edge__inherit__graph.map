@@ -1,0 +1,11 @@
+<map id="StepShape_Edge" name="StepShape_Edge">
+<area shape="rect" id="node5" href="$class_step_kinematics___kinematic_joint.html" title="Representation of STEP entity KinematicJoint. " alt="" coords="920,5,1099,47"/>
+<area shape="rect" id="node6" href="$class_step_shape___edge_curve.html" title="StepShape_EdgeCurve" alt="" coords="932,71,1087,98"/>
+<area shape="rect" id="node7" href="$class_step_shape___oriented_edge.html" title="StepShape_OrientedEdge" alt="" coords="923,122,1095,149"/>
+<area shape="rect" id="node10" href="$class_step_shape___subedge.html" title="Representation of STEP entity Subedge. " alt="" coords="937,173,1081,199"/>
+<area shape="rect" id="node2" href="$class_step_shape___topological_representation_item.html" title="StepShape_TopologicalRepresentationItem" alt="" coords="431,97,701,123"/>
+<area shape="rect" id="node3" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="188,97,383,123"/>
+<area shape="rect" id="node4" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,97,140,123"/>
+<area shape="rect" id="node8" href="$class_step_kinematics___oriented_joint.html" title="Representation of STEP entity OrientedJoint. " alt="" coords="1147,97,1344,123"/>
+<area shape="rect" id="node9" href="$class_step_shape___seam_edge.html" title="Representation of STEP entity SeamEdge. " alt="" coords="1167,147,1324,174"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="StepKinematics_LowOrderKinematicPair" name="StepKinematics_LowOrderKinematicPair">
+<area shape="rect" id="node6" href="$class_step_kinematics___cylindrical_pair.html" title="Representation of STEP entity CylindricalPair. " alt="" coords="1316,13,1520,39"/>
+<area shape="rect" id="node8" href="$class_step_kinematics___fully_constrained_pair.html" title="Representation of STEP entity FullyConstrainedPair. " alt="" coords="1297,63,1539,90"/>
+<area shape="rect" id="node9" href="$class_step_kinematics___low_order_kinematic_pair_with_range.html" title="Representation of STEP entity LowOrderKinematicPairWithRange. " alt="" coords="1301,115,1535,156"/>
+<area shape="rect" id="node10" href="$class_step_kinematics___planar_pair.html" title="Representation of STEP entity PlanarPair. " alt="" coords="1327,181,1509,207"/>
+<area shape="rect" id="node12" href="$class_step_kinematics___prismatic_pair.html" title="Representation of STEP entity PrismaticPair. " alt="" coords="1319,231,1517,258"/>
+<area shape="rect" id="node14" href="$class_step_kinematics___revolute_pair.html" title="Representation of STEP entity RevolutePair. " alt="" coords="1321,282,1515,309"/>
+<area shape="rect" id="node16" href="$class_step_kinematics___spherical_pair.html" title="Representation of STEP entity SphericalPair. " alt="" coords="1319,333,1517,359"/>
+<area shape="rect" id="node18" href="$class_step_kinematics___spherical_pair_with_pin.html" title="Representation of STEP entity SphericalPairWithPin. " alt="" coords="1331,384,1505,425"/>
+<area shape="rect" id="node20" href="$class_step_kinematics___unconstrained_pair.html" title="Representation of STEP entity UnconstrainedPair. " alt="" coords="1305,450,1531,477"/>
+<area shape="rect" id="node21" href="$class_step_kinematics___universal_pair.html" title="Representation of STEP entity UniversalPair. " alt="" coords="1320,501,1516,527"/>
+<area shape="rect" id="node2" href="$class_step_kinematics___kinematic_pair.html" title="Representation of STEP entity KinematicPair. " alt="" coords="741,257,944,283"/>
+<area shape="rect" id="node3" href="$class_step_geom___geometric_representation_item.html" title="StepGeom_GeometricRepresentationItem" alt="" coords="431,257,693,283"/>
+<area shape="rect" id="node4" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="188,257,383,283"/>
+<area shape="rect" id="node5" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,257,140,283"/>
+<area shape="rect" id="node7" href="$class_step_kinematics___cylindrical_pair_with_range.html" title="Representation of STEP entity CylindricalPairWithRange. " alt="" coords="1604,5,1785,47"/>
+<area shape="rect" id="node11" href="$class_step_kinematics___planar_pair_with_range.html" title="Representation of STEP entity PlanarPairWithRange. " alt="" coords="1604,144,1785,185"/>
+<area shape="rect" id="node13" href="$class_step_kinematics___prismatic_pair_with_range.html" title="Representation of STEP entity PrismaticPairWithRange. " alt="" coords="1607,209,1783,251"/>
+<area shape="rect" id="node15" href="$class_step_kinematics___revolute_pair_with_range.html" title="Representation of STEP entity RevolutePairWithRange. " alt="" coords="1598,275,1791,316"/>
+<area shape="rect" id="node17" href="$class_step_kinematics___spherical_pair_with_range.html" title="Representation of STEP entity SphericalPairWithRange. " alt="" coords="1607,340,1782,381"/>
+<area shape="rect" id="node19" href="$class_step_kinematics___spherical_pair_with_pin_and_range.html" title="Representation of STEP entity SphericalPairWithPinAndRange. " alt="" coords="1607,405,1782,447"/>
+<area shape="rect" id="node22" href="$class_step_kinematics___homokinetic_pair.html" title="Representation of STEP entity HomokineticPair. " alt="" coords="1587,486,1803,513"/>
+<area shape="rect" id="node23" href="$class_step_kinematics___universal_pair_with_range.html" title="Representation of STEP entity UniversalPairWithRange. " alt="" coords="1608,537,1781,579"/>
+</map>

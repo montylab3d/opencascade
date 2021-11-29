@@ -1,0 +1,19 @@
+digraph schema_TKOpenGlesTest
+{
+	TKOpenGlesTest [ URL = "toolkit_tkopenglestest.html", shape = box ]
+	TKernel [ URL = "toolkit_tkernel.html" , shape = box ]
+	TKOpenGlesTest -> TKernel [ color = "midnightblue", style = "solid" ]
+	TKMath [ URL = "toolkit_tkmath.html" , shape = box ]
+	TKOpenGlesTest -> TKMath [ color = "midnightblue", style = "solid" ]
+	TKDraw [ URL = "toolkit_tkdraw.html" , shape = box ]
+	TKOpenGlesTest -> TKDraw [ color = "midnightblue", style = "solid" ]
+	TKOpenGles [ URL = "toolkit_tkopengles.html" , shape = box ]
+	TKOpenGlesTest -> TKOpenGles [ color = "midnightblue", style = "solid" ]
+	TKService [ URL = "toolkit_tkservice.html" , shape = box ]
+	TKOpenGlesTest -> TKService [ color = "midnightblue", style = "solid" ]
+	TKV3d [ URL = "toolkit_tkv3d.html" , shape = box ]
+	TKOpenGlesTest -> TKV3d [ color = "midnightblue", style = "solid" ]
+	TKViewerTest [ URL = "toolkit_tkviewertest.html" , shape = box ]
+	TKOpenGlesTest -> TKViewerTest [ color = "midnightblue", style = "solid" ]
+	aspect = 1
+}

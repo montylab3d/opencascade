@@ -1,0 +1,5 @@
+<map id="Poly_Triangulation" name="Poly_Triangulation">
+<area shape="rect" id="node3" href="$class_r_w_mesh___triangulation_source.html" title="Mesh data wrapper for delayed triangulation loading. Class inherits Poly_Triangulation so that it can..." alt="" coords="5,155,203,181"/>
+<area shape="rect" id="node2" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="37,5,171,32"/>
+<area shape="rect" id="node4" href="$class_r_w_gltf___gltf_late_primitive_array.html" title="Mesh data wrapper for delayed primitive array loading from glTF file. " alt="" coords="21,229,187,271"/>
+</map>

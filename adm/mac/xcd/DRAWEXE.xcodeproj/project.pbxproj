@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+		0B25047911FB0BE70B6A0F14 = {isa = PBXBuildFile; fileRef = 07AD01B30F350C1B0EC71213 ;};
+
+		05D400C1054003DB0CC00022 = {isa = PBXBuildFile; fileRef = 141E0BB315F0139017A50605 ; };
+		068E195E163207A30D8202E3 = {isa = PBXBuildFile; fileRef = 0C79003714DA12030E81114C ; };
+		038E030E04AE101D10840940 = {isa = PBXBuildFile; fileRef = 0C3F17870A0C0CE1057414AC ; };
+		042D106615B5191C015D16DA = {isa = PBXBuildFile; fileRef = 11C906310F21028F0CB509E8 ; };
+		04F415F402AF12F10C061038 = {isa = PBXBuildFile; fileRef = 057C190415CC0E42186D0DE9 ; };
+		193A0AFB035114CC1470160C = {isa = PBXBuildFile; fileRef = 19150F8417CD04230B56164A ; };
+		10C40FF2063F182D19121058 = {isa = PBXBuildFile; fileRef = 052B126106BC0D240CC8097F ; };
+		1900080C0E5001F40BB00912 = {isa = PBXBuildFile; fileRef = 0532141B00C80095075511FC ; };
+		116A032C017517AE09DB0674 = {isa = PBXBuildFile; fileRef = 0D5E0CFF0FD4006118300144 ; };
+		065B07A2132B07A608F716EB = {isa = PBXBuildFile; fileRef = 0B7C0F0D0967096F01E70FF1 ; };
+		0442191F023C0CF509290F42 = {isa = PBXBuildFile; fileRef = 0A3C11FF17B51102139212C3 ; };
+		102C1132173512B50C7A017A = {isa = PBXBuildFile; fileRef = 131E151C12D018AE15D1072F ; };
+		0208190109AA18750822121E = {isa = PBXBuildFile; fileRef = 0987169909CE046B0BA7090B ; };
+
+		0E1F090C01910FE412D907DE = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DRAWEXE; sourceTree = BUILT_PRODUCTS_DIR; };
+
+		07AD01B30F350C1B0EC71213 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DRAWEXE.cxx; path = ../../../src/DRAWEXE/DRAWEXE.cxx; sourceTree = "<group>"; };
+
+		141E0BB315F0139017A50605 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKDraw.dylib; path = libTKDraw.dylib; sourceTree = "<group>"; };
+		0C79003714DA12030E81114C = {isa = PBXFileReference; lastKnownFileType = file; name = libTKMesh.dylib; path = libTKMesh.dylib; sourceTree = "<group>"; };
+		0C3F17870A0C0CE1057414AC = {isa = PBXFileReference; lastKnownFileType = file; name = libTKShHealing.dylib; path = libTKShHealing.dylib; sourceTree = "<group>"; };
+		11C906310F21028F0CB509E8 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKTopAlgo.dylib; path = libTKTopAlgo.dylib; sourceTree = "<group>"; };
+		057C190415CC0E42186D0DE9 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKHLR.dylib; path = libTKHLR.dylib; sourceTree = "<group>"; };
+		19150F8417CD04230B56164A = {isa = PBXFileReference; lastKnownFileType = file; name = libTKGeomAlgo.dylib; path = libTKGeomAlgo.dylib; sourceTree = "<group>"; };
+		052B126106BC0D240CC8097F = {isa = PBXFileReference; lastKnownFileType = file; name = libTKGeomBase.dylib; path = libTKGeomBase.dylib; sourceTree = "<group>"; };
+		0532141B00C80095075511FC = {isa = PBXFileReference; lastKnownFileType = file; name = libTKG2d.dylib; path = libTKG2d.dylib; sourceTree = "<group>"; };
+		0D5E0CFF0FD4006118300144 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKBRep.dylib; path = libTKBRep.dylib; sourceTree = "<group>"; };
+		0B7C0F0D0967096F01E70FF1 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKMath.dylib; path = libTKMath.dylib; sourceTree = "<group>"; };
+		0A3C11FF17B51102139212C3 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKG3d.dylib; path = libTKG3d.dylib; sourceTree = "<group>"; };
+		131E151C12D018AE15D1072F = {isa = PBXFileReference; lastKnownFileType = file; name = libTKernel.dylib; path = libTKernel.dylib; sourceTree = "<group>"; };
+		0987169909CE046B0BA7090B = {isa = PBXFileReference; lastKnownFileType = file; name = libTKService.dylib; path = libTKService.dylib; sourceTree = "<group>"; };
+
+		0BFB03D70125001900EF160F = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				05D400C1054003DB0CC00022 ,
+				068E195E163207A30D8202E3 ,
+				038E030E04AE101D10840940 ,
+				042D106615B5191C015D16DA ,
+				04F415F402AF12F10C061038 ,
+				193A0AFB035114CC1470160C ,
+				10C40FF2063F182D19121058 ,
+				1900080C0E5001F40BB00912 ,
+				116A032C017517AE09DB0674 ,
+				065B07A2132B07A608F716EB ,
+				0442191F023C0CF509290F42 ,
+				102C1132173512B50C7A017A ,
+				0208190109AA18750822121E ,
+
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+
+		00D7184000F61783102616DB = {
+			isa = PBXGroup;
+			children = (
+				07AD01B30F350C1B0EC71213 ,
+			);
+			name = DRAWEXE;
+			sourceTree = "<group>";
+		};
+
+		09B30415122906B6158C1210 = {
+			isa = PBXGroup;
+			children = (
+				141E0BB315F0139017A50605 ,
+				0C79003714DA12030E81114C ,
+				0C3F17870A0C0CE1057414AC ,
+				11C906310F21028F0CB509E8 ,
+				057C190415CC0E42186D0DE9 ,
+				19150F8417CD04230B56164A ,
+				052B126106BC0D240CC8097F ,
+				0532141B00C80095075511FC ,
+				0D5E0CFF0FD4006118300144 ,
+				0B7C0F0D0967096F01E70FF1 ,
+				0A3C11FF17B51102139212C3 ,
+				131E151C12D018AE15D1072F ,
+				0987169909CE046B0BA7090B ,
+
+				0069005D0C6D15A60CED026D ,
+				0E1F090C01910FE412D907DE ,
+			);
+			sourceTree = "<group>";
+		};
+		0069005D0C6D15A60CED026D = {
+			isa = PBXGroup;
+			children = (
+				00D7184000F61783102616DB ,
+			);
+			name = "Source files";
+			sourceTree = "<group>";
+		};
+
+		1647138913AB0B7E074D15B0 = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+
+		15D91775186A030C14510320 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E6310D809D80EE90A270C0E ;
+			buildPhases = (
+				0DCB00DC160B095810E30B94 ,
+				0BFB03D70125001900EF160F ,
+				1647138913AB0B7E074D15B0 ,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DRAWEXE;
+			productName = DRAWEXE;
+			productReference = 0E1F090C01910FE412D907DE ;
+			productType = "com.apple.product-type.tool";
+		};
+
+		02B0043D150801C007090625 = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 05DB11F1150218840334072A ;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 09B30415122906B6158C1210;
+			productRefGroup = 09B30415122906B6158C1210;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				15D91775186A030C14510320 ,
+			);
+		};
+
+		0DCB00DC160B095810E30B94 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B25047911FB0BE70B6A0F14 ,
+
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+
+		188F049D08D509DE17611278 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "$(CSF_OPT_LNK64D)"; 
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		021408E11478146411F60D12 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				DEAD_CODE_STRIPPING = NO;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "$(CSF_OPT_LNK64)";
+			};
+			name = Release;
+		};
+		075F02351859149A02C718E3 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					OCC_CONVERT_SIGNALS ,
+				);
+				HEADER_SEARCH_PATHS = (
+					../../../inc,
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/inc,
+					"$(CSF_OPT_INC)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/adm/mac/xcd/build/Release,
+				);
+				OTHER_CFLAGS = (
+					"$(CSF_OPT_CMPL)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = " ../../../inc  /Users/mnt/builds/WEEK-39/OCCT_SRC/inc";
+
+			};
+			name = Debug;
+		};
+		054D188913E30FF9090A12A9 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+
+
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					OCC_CONVERT_SIGNALS ,
+				);
+				HEADER_SEARCH_PATHS = (
+					../../../inc,
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/inc,
+					"$(CSF_OPT_INC)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/adm/mac/xcd/build/Release,
+				);
+				OTHER_CFLAGS = (
+					"$(CSF_OPT_CMPL)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = " ../../../inc  /Users/mnt/builds/WEEK-39/OCCT_SRC/inc";
+
+			};
+			name = Release;
+		};
+
+		05DB11F1150218840334072A = {
+			isa = XCConfigurationList;
+		buildConfigurations = (
+				188F049D08D509DE17611278 ,
+				021408E11478146411F60D12 ,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0E6310D809D80EE90A270C0E = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				075F02351859149A02C718E3 ,
+				054D188913E30FF9090A12A9 ,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+
+	};
+	rootObject = 02B0043D150801C007090625 ;
+}

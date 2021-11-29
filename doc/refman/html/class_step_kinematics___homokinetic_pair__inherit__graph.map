@@ -1,0 +1,8 @@
+<map id="StepKinematics_HomokineticPair" name="StepKinematics_HomokineticPair">
+<area shape="rect" id="node2" href="$class_step_kinematics___universal_pair.html" title="Representation of STEP entity UniversalPair. " alt="" coords="39,379,235,405"/>
+<area shape="rect" id="node3" href="$class_step_kinematics___low_order_kinematic_pair.html" title="Representation of STEP entity LowOrderKinematicPair. " alt="" coords="8,304,265,331"/>
+<area shape="rect" id="node4" href="$class_step_kinematics___kinematic_pair.html" title="Representation of STEP entity KinematicPair. " alt="" coords="35,229,238,256"/>
+<area shape="rect" id="node5" href="$class_step_geom___geometric_representation_item.html" title="StepGeom_GeometricRepresentationItem" alt="" coords="5,155,268,181"/>
+<area shape="rect" id="node6" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="39,80,234,107"/>
+<area shape="rect" id="node7" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="69,5,204,32"/>
+</map>

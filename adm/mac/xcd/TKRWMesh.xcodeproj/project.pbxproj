@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+		1736001D135013BD0281107F = {isa = PBXBuildFile; fileRef = 0319058209E5070612410EAC ;};
+		1131079A13D80DF918900263 = {isa = PBXBuildFile; fileRef = 0953034303781538114A0C23 ;};
+		0B73185B0185163E084B0CA8 = {isa = PBXBuildFile; fileRef = 119507F50F67179B12390506 ;};
+		0FEB1863141017920556012D = {isa = PBXBuildFile; fileRef = 01430C4206A906F807620FAA ;};
+		037A112F018201BD156E017D = {isa = PBXBuildFile; fileRef = 03AE084C16CA079B05210B2B ;};
+		185D002F01AD1031087F0A8A = {isa = PBXBuildFile; fileRef = 027A0DAE0F3F0B880DCD026E ;};
+		0EDF0E000707149518240A09 = {isa = PBXBuildFile; fileRef = 13DF01540E74026F00C71089 ;};
+		128E0C8514510B910C1C06EC = {isa = PBXBuildFile; fileRef = 05F51496154D031E0BB40701 ;};
+		0C6A03D40643077F08010B39 = {isa = PBXBuildFile; fileRef = 14A30A1D03B514040BFE093A ;};
+		11FD15FD0EAA14A0127C07B1 = {isa = PBXBuildFile; fileRef = 11ED04280CDD057114EB077A ;};
+		009C0B5110660CB80C050F35 = {isa = PBXBuildFile; fileRef = 11FF0952197905D30F2E12A3 ;};
+		0D050CBD08B3049300551244 = {isa = PBXBuildFile; fileRef = 0AD016AB0DA20E8C1357050F ;};
+		0FC20EDC1866103613410C38 = {isa = PBXBuildFile; fileRef = 194B1911019E050806300919 ;};
+		15320AFB04A91085124A07D2 = {isa = PBXBuildFile; fileRef = 047D0FC90B0F0BE914B201BA ;};
+		12E50478104F0EE704FC070A = {isa = PBXBuildFile; fileRef = 18A9024B1201014A173706D0 ;};
+		14590753039812810B7F04C1 = {isa = PBXBuildFile; fileRef = 1628060104B3000917EE0DB8 ;};
+
+		102C1132173512B50C7A017A = {isa = PBXBuildFile; fileRef = 131E151C12D018AE15D1072F ; };
+		065B07A2132B07A608F716EB = {isa = PBXBuildFile; fileRef = 0B7C0F0D0967096F01E70FF1 ; };
+		068E195E163207A30D8202E3 = {isa = PBXBuildFile; fileRef = 0C79003714DA12030E81114C ; };
+		18CD185D099215A109010A2A = {isa = PBXBuildFile; fileRef = 1003149501A812DD00AC1582 ; };
+		100F09600F99192916D50809 = {isa = PBXBuildFile; fileRef = 0B2E167E0FAC05DA0F490129 ; };
+		055017A50C6C12C602C60832 = {isa = PBXBuildFile; fileRef = 04DE0CF70E6902F511EF0AB3 ; };
+		116A032C017517AE09DB0674 = {isa = PBXBuildFile; fileRef = 0D5E0CFF0FD4006118300144 ; };
+		0442191F023C0CF509290F42 = {isa = PBXBuildFile; fileRef = 0A3C11FF17B51102139212C3 ; };
+		0208190109AA18750822121E = {isa = PBXBuildFile; fileRef = 0987169909CE046B0BA7090B ; };
+
+		0A161357043D14120EC110BC = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libTKRWMesh.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+
+		0319058209E5070612410EAC = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_CafReader.cxx; path = ../../../src/RWGltf/RWGltf_CafReader.cxx; sourceTree = "<group>"; };
+		0953034303781538114A0C23 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_CafWriter.cxx; path = ../../../src/RWGltf/RWGltf_CafWriter.cxx; sourceTree = "<group>"; };
+		119507F50F67179B12390506 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_GltfJsonParser.cxx; path = ../../../src/RWGltf/RWGltf_GltfJsonParser.cxx; sourceTree = "<group>"; };
+		01430C4206A906F807620FAA = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_GltfLatePrimitiveArray.cxx; path = ../../../src/RWGltf/RWGltf_GltfLatePrimitiveArray.cxx; sourceTree = "<group>"; };
+		03AE084C16CA079B05210B2B = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_GltfMaterialMap.cxx; path = ../../../src/RWGltf/RWGltf_GltfMaterialMap.cxx; sourceTree = "<group>"; };
+		027A0DAE0F3F0B880DCD026E = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_PrimitiveArrayReader.cxx; path = ../../../src/RWGltf/RWGltf_PrimitiveArrayReader.cxx; sourceTree = "<group>"; };
+		13DF01540E74026F00C71089 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWGltf_TriangulationReader.cxx; path = ../../../src/RWGltf/RWGltf_TriangulationReader.cxx; sourceTree = "<group>"; };
+		05F51496154D031E0BB40701 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWMesh_CafReader.cxx; path = ../../../src/RWMesh/RWMesh_CafReader.cxx; sourceTree = "<group>"; };
+		14A30A1D03B514040BFE093A = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWMesh_CoordinateSystemConverter.cxx; path = ../../../src/RWMesh/RWMesh_CoordinateSystemConverter.cxx; sourceTree = "<group>"; };
+		11ED04280CDD057114EB077A = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWMesh_FaceIterator.cxx; path = ../../../src/RWMesh/RWMesh_FaceIterator.cxx; sourceTree = "<group>"; };
+		11FF0952197905D30F2E12A3 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWMesh_MaterialMap.cxx; path = ../../../src/RWMesh/RWMesh_MaterialMap.cxx; sourceTree = "<group>"; };
+		0AD016AB0DA20E8C1357050F = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWObj.cxx; path = ../../../src/RWObj/RWObj.cxx; sourceTree = "<group>"; };
+		194B1911019E050806300919 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWObj_CafReader.cxx; path = ../../../src/RWObj/RWObj_CafReader.cxx; sourceTree = "<group>"; };
+		047D0FC90B0F0BE914B201BA = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWObj_MtlReader.cxx; path = ../../../src/RWObj/RWObj_MtlReader.cxx; sourceTree = "<group>"; };
+		18A9024B1201014A173706D0 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWObj_Reader.cxx; path = ../../../src/RWObj/RWObj_Reader.cxx; sourceTree = "<group>"; };
+		1628060104B3000917EE0DB8 = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RWObj_TriangulationReader.cxx; path = ../../../src/RWObj/RWObj_TriangulationReader.cxx; sourceTree = "<group>"; };
+
+		131E151C12D018AE15D1072F = {isa = PBXFileReference; lastKnownFileType = file; name = libTKernel.dylib; path = libTKernel.dylib; sourceTree = "<group>"; };
+		0B7C0F0D0967096F01E70FF1 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKMath.dylib; path = libTKMath.dylib; sourceTree = "<group>"; };
+		0C79003714DA12030E81114C = {isa = PBXFileReference; lastKnownFileType = file; name = libTKMesh.dylib; path = libTKMesh.dylib; sourceTree = "<group>"; };
+		1003149501A812DD00AC1582 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKXCAF.dylib; path = libTKXCAF.dylib; sourceTree = "<group>"; };
+		0B2E167E0FAC05DA0F490129 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKLCAF.dylib; path = libTKLCAF.dylib; sourceTree = "<group>"; };
+		04DE0CF70E6902F511EF0AB3 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKV3d.dylib; path = libTKV3d.dylib; sourceTree = "<group>"; };
+		0D5E0CFF0FD4006118300144 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKBRep.dylib; path = libTKBRep.dylib; sourceTree = "<group>"; };
+		0A3C11FF17B51102139212C3 = {isa = PBXFileReference; lastKnownFileType = file; name = libTKG3d.dylib; path = libTKG3d.dylib; sourceTree = "<group>"; };
+		0987169909CE046B0BA7090B = {isa = PBXFileReference; lastKnownFileType = file; name = libTKService.dylib; path = libTKService.dylib; sourceTree = "<group>"; };
+
+		040A03B80A6717BE03D00223 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				102C1132173512B50C7A017A ,
+				065B07A2132B07A608F716EB ,
+				068E195E163207A30D8202E3 ,
+				18CD185D099215A109010A2A ,
+				100F09600F99192916D50809 ,
+				055017A50C6C12C602C60832 ,
+				116A032C017517AE09DB0674 ,
+				0442191F023C0CF509290F42 ,
+				0208190109AA18750822121E ,
+
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+
+		09A409E018CD05411628064C = {
+			isa = PBXGroup;
+			children = (
+				0319058209E5070612410EAC ,
+				0953034303781538114A0C23 ,
+				119507F50F67179B12390506 ,
+				01430C4206A906F807620FAA ,
+				03AE084C16CA079B05210B2B ,
+				027A0DAE0F3F0B880DCD026E ,
+				13DF01540E74026F00C71089 ,
+			);
+			name = RWGltf;
+			sourceTree = "<group>";
+		};
+		0872091D14A10780002104AF = {
+			isa = PBXGroup;
+			children = (
+				05F51496154D031E0BB40701 ,
+				14A30A1D03B514040BFE093A ,
+				11ED04280CDD057114EB077A ,
+				11FF0952197905D30F2E12A3 ,
+			);
+			name = RWMesh;
+			sourceTree = "<group>";
+		};
+		165102940A3A11B415F20F30 = {
+			isa = PBXGroup;
+			children = (
+				0AD016AB0DA20E8C1357050F ,
+				194B1911019E050806300919 ,
+				047D0FC90B0F0BE914B201BA ,
+				18A9024B1201014A173706D0 ,
+				1628060104B3000917EE0DB8 ,
+			);
+			name = RWObj;
+			sourceTree = "<group>";
+		};
+
+		07C70E3C01E81828009A077A = {
+			isa = PBXGroup;
+			children = (
+				131E151C12D018AE15D1072F ,
+				0B7C0F0D0967096F01E70FF1 ,
+				0C79003714DA12030E81114C ,
+				1003149501A812DD00AC1582 ,
+				0B2E167E0FAC05DA0F490129 ,
+				04DE0CF70E6902F511EF0AB3 ,
+				0D5E0CFF0FD4006118300144 ,
+				0A3C11FF17B51102139212C3 ,
+				0987169909CE046B0BA7090B ,
+
+				06620324139E15D606881770 ,
+				0A161357043D14120EC110BC ,
+			);
+			sourceTree = "<group>";
+		};
+		06620324139E15D606881770 = {
+			isa = PBXGroup;
+			children = (
+				09A409E018CD05411628064C ,
+				0872091D14A10780002104AF ,
+				165102940A3A11B415F20F30 ,
+			);
+			name = "Source files";
+			sourceTree = "<group>";
+		};
+
+		07D207A40A2E05BA132D1864 = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+
+		072902C708E20E580FE0188D = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 083B0CFF0825171C19171741 ;
+			buildPhases = (
+				045A155817710C7701C61431 ,
+				040A03B80A6717BE03D00223 ,
+				07D207A40A2E05BA132D1864 ,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TKRWMesh;
+			productName = TKRWMesh;
+			productReference = 0A161357043D14120EC110BC ;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+
+		166501A209E802700A491680 = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 13B9028908920942019B0E2A ;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 07C70E3C01E81828009A077A;
+			productRefGroup = 07C70E3C01E81828009A077A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				072902C708E20E580FE0188D ,
+			);
+		};
+
+		045A155817710C7701C61431 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1736001D135013BD0281107F ,
+				1131079A13D80DF918900263 ,
+				0B73185B0185163E084B0CA8 ,
+				0FEB1863141017920556012D ,
+				037A112F018201BD156E017D ,
+				185D002F01AD1031087F0A8A ,
+				0EDF0E000707149518240A09 ,
+				128E0C8514510B910C1C06EC ,
+				0C6A03D40643077F08010B39 ,
+				11FD15FD0EAA14A0127C07B1 ,
+				009C0B5110660CB80C050F35 ,
+				0D050CBD08B3049300551244 ,
+				0FC20EDC1866103613410C38 ,
+				15320AFB04A91085124A07D2 ,
+				12E50478104F0EE704FC070A ,
+				14590753039812810B7F04C1 ,
+
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+
+		1882093205EC14BF0C360AE1 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "$(CSF_OPT_LNK64D)"; 
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		0DC80F2609E412F611C1137E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				DEAD_CODE_STRIPPING = NO;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "$(CSF_OPT_LNK64)";
+			};
+			name = Release;
+		};
+		139512FA00EA16860CBA029C = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_EXTENSION = dylib;
+				EXECUTABLE_PREFIX = lib;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					OCC_CONVERT_SIGNALS ,
+				);
+				HEADER_SEARCH_PATHS = (
+					../../../inc,
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/inc,
+					"$(CSF_OPT_INC)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/adm/mac/xcd/build/Release,
+				);
+				OTHER_CFLAGS = (
+					"$(CSF_OPT_CMPL)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = " ../../../inc  /Users/mnt/builds/WEEK-39/OCCT_SRC/inc";
+				WRAPPER_EXTENSION = dylib;
+			};
+			name = Debug;
+		};
+		185712CD13C41985058307FE = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_EXTENSION = dylib;
+				EXECUTABLE_PREFIX = lib;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					OCC_CONVERT_SIGNALS ,
+				);
+				HEADER_SEARCH_PATHS = (
+					../../../inc,
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/inc,
+					"$(CSF_OPT_INC)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					,
+					/Users/mnt/builds/WEEK-39/OCCT_SRC/adm/mac/xcd/build/Release,
+				);
+				OTHER_CFLAGS = (
+					"$(CSF_OPT_CMPL)",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"$(OTHER_CFLAGS)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = " ../../../inc  /Users/mnt/builds/WEEK-39/OCCT_SRC/inc";
+				WRAPPER_EXTENSION = dylib;
+			};
+			name = Release;
+		};
+
+		13B9028908920942019B0E2A = {
+			isa = XCConfigurationList;
+		buildConfigurations = (
+				1882093205EC14BF0C360AE1 ,
+				0DC80F2609E412F611C1137E ,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		083B0CFF0825171C19171741 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				139512FA00EA16860CBA029C ,
+				185712CD13C41985058307FE ,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+
+	};
+	rootObject = 166501A209E802700A491680 ;
+}

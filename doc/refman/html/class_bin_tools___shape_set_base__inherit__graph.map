@@ -1,0 +1,5 @@
+<map id="BinTools_ShapeSetBase" name="BinTools_ShapeSetBase">
+<area shape="rect" id="node2" href="$class_bin_tools___shape_reader.html" title="Reads topology from IStream in binary format without grouping of objects by types and using relative ..." alt="" coords="5,80,163,107"/>
+<area shape="rect" id="node3" href="$class_bin_tools___shape_set.html" title="Writes topology in OStream in binary format. " alt="" coords="187,80,323,107"/>
+<area shape="rect" id="node4" href="$class_bin_tools___shape_writer.html" title="Writes topology in OStream in binary format without grouping of objects by types and using relative p..." alt="" coords="347,80,498,107"/>
+</map>

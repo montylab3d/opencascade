@@ -1,0 +1,20 @@
+<map id="OpenGl_GlCore46" name="OpenGl_GlCore46">
+<area shape="rect" id="node2" href="$struct_open_gl___gl_core45.html" title="OpenGL 4.5 definition. " alt="" coords="17,1275,144,1301"/>
+<area shape="rect" id="node3" href="$struct_open_gl___gl_core44.html" title="OpenGL 4.4 definition. " alt="" coords="17,1200,144,1227"/>
+<area shape="rect" id="node4" href="$struct_open_gl___gl_core43.html" title="OpenGL 4.3 definition. " alt="" coords="17,1125,144,1152"/>
+<area shape="rect" id="node5" href="$struct_open_gl___gl_core42.html" title="OpenGL 4.2 definition. " alt="" coords="17,1051,144,1077"/>
+<area shape="rect" id="node6" href="$struct_open_gl___gl_core41.html" title="OpenGL 4.1 definition. " alt="" coords="17,976,144,1003"/>
+<area shape="rect" id="node7" href="$struct_open_gl___gl_core40.html" title="OpenGL 4.0 definition. " alt="" coords="17,901,144,928"/>
+<area shape="rect" id="node8" href="$struct_open_gl___gl_core33.html" title="OpenGL 3.3 definition. " alt="" coords="17,827,144,853"/>
+<area shape="rect" id="node9" href="$struct_open_gl___gl_core32.html" title="OpenGL 3.2 definition. " alt="" coords="17,752,144,779"/>
+<area shape="rect" id="node10" href="$struct_open_gl___gl_core31.html" title="OpenGL 3.1 definition. " alt="" coords="17,677,144,704"/>
+<area shape="rect" id="node11" href="$struct_open_gl___gl_core30.html" title="OpenGL 3.0 core. This is first version with deprecation model introduced. " alt="" coords="17,603,144,629"/>
+<area shape="rect" id="node12" href="$struct_open_gl___gl_core21.html" title="OpenGL 2.1 core based on 2.0 version. " alt="" coords="17,528,144,555"/>
+<area shape="rect" id="node13" href="$struct_open_gl___gl_core20.html" title="OpenGL 2.0 core based on 1.5 version. " alt="" coords="17,453,144,480"/>
+<area shape="rect" id="node14" href="$struct_open_gl___gl_core15.html" title="OpenGL 1.5 core based on 1.4 version. " alt="" coords="17,379,144,405"/>
+<area shape="rect" id="node15" href="$struct_open_gl___gl_core14.html" title="OpenGL 1.4 core based on 1.3 version. " alt="" coords="17,304,144,331"/>
+<area shape="rect" id="node16" href="$struct_open_gl___gl_core13.html" title="OpenGL 1.3 without deprecated entry points. " alt="" coords="17,229,144,256"/>
+<area shape="rect" id="node17" href="$struct_open_gl___gl_core12.html" title="OpenGL 1.2 core based on 1.1 version. " alt="" coords="17,155,144,181"/>
+<area shape="rect" id="node18" href="$struct_open_gl___gl_core11_fwd.html" title="OpenGL 1.1 core without deprecated Fixed Pipeline entry points. Notice that all functions within this..." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node19" href="$struct_open_gl___gl_functions.html" title="Mega structure defines the complete list of OpenGL functions. " alt="" coords="9,5,152,32"/>
+</map>

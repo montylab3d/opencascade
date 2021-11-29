@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{32267967-180F-0785-0D51-EFF2E934DC83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{79321AEC-0CC7-193A-00E8-63A733760808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\TPrsStd">
+      <UniqueIdentifier>{096F0035-124F-1363-0F92-1344C60848A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\TPrsStd">
+      <UniqueIdentifier>{D950DC14-16CD-13DA-06A0-B5EE9642E6D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_AISPresentation.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_AISViewer.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_AxisDriver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_ConstraintDriver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_ConstraintTools.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_Driver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_DriverTable.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_GeometryDriver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_NamedShapeDriver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_PlaneDriver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\TPrsStd\TPrsStd_PointDriver.cxx">
+      <Filter>Source files\TPrsStd</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_AISPresentation.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_AISViewer.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_AxisDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_ConstraintDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_ConstraintTools.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_DataMapIteratorOfDataMapOfGUIDDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_DataMapOfGUIDDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_Driver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_DriverTable.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_GeometryDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_NamedShapeDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_PlaneDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\TPrsStd\TPrsStd_PointDriver.hxx">
+      <Filter>Header files\TPrsStd</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TKVCAF.rc" />
+  </ItemGroup>
+</Project>

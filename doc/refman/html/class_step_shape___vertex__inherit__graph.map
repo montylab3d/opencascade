@@ -1,0 +1,7 @@
+<map id="StepShape_Vertex" name="StepShape_Vertex">
+<area shape="rect" id="node5" href="$class_step_kinematics___kinematic_link.html" title="Representation of STEP entity KinematicLink. " alt="" coords="5,304,208,331"/>
+<area shape="rect" id="node6" href="$class_step_shape___vertex_point.html" title="StepShape_VertexPoint" alt="" coords="233,304,394,331"/>
+<area shape="rect" id="node2" href="$class_step_shape___topological_representation_item.html" title="StepShape_TopologicalRepresentationItem" alt="" coords="74,155,345,181"/>
+<area shape="rect" id="node3" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="112,80,307,107"/>
+<area shape="rect" id="node4" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="142,5,277,32"/>
+</map>

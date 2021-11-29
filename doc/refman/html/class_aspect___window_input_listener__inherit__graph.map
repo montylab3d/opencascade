@@ -1,0 +1,4 @@
+<map id="Aspect_WindowInputListener" name="Aspect_WindowInputListener">
+<area shape="rect" id="node2" href="$class_a_i_s___view_controller.html" title="Auxiliary structure for handling viewer events between GUI and Rendering threads. ..." alt="" coords="34,80,167,107"/>
+<area shape="rect" id="node3" href="$class_viewer_test___event_manager.html" title="used to manage mouse event (move,select) By default the events are transmitted to interactive context..." alt="" coords="13,155,188,181"/>
+</map>

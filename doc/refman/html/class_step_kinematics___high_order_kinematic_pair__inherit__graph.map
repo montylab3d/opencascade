@@ -1,0 +1,19 @@
+<map id="StepKinematics_HighOrderKinematicPair" name="StepKinematics_HighOrderKinematicPair">
+<area shape="rect" id="node6" href="$class_step_kinematics___linear_flexible_and_planar_curve_pair.html" title="Representation of STEP entity LinearFlexibleAndPlanarCurvePair. " alt="" coords="1235,56,1437,97"/>
+<area shape="rect" id="node7" href="$class_step_kinematics___planar_curve_pair.html" title="Representation of STEP entity PlanarCurvePair. " alt="" coords="1229,122,1443,149"/>
+<area shape="rect" id="node11" href="$class_step_kinematics___point_on_planar_curve_pair.html" title="Representation of STEP entity PointOnPlanarCurvePair. " alt="" coords="1233,173,1439,215"/>
+<area shape="rect" id="node13" href="$class_step_kinematics___point_on_surface_pair.html" title="Representation of STEP entity PointOnSurfacePair. " alt="" coords="1219,242,1453,269"/>
+<area shape="rect" id="node15" href="$class_step_kinematics___surface_pair.html" title="Representation of STEP entity SurfacePair. " alt="" coords="1242,330,1430,357"/>
+<area shape="rect" id="node2" href="$class_step_kinematics___kinematic_pair.html" title="Representation of STEP entity KinematicPair. " alt="" coords="741,181,944,207"/>
+<area shape="rect" id="node3" href="$class_step_geom___geometric_representation_item.html" title="StepGeom_GeometricRepresentationItem" alt="" coords="431,181,693,207"/>
+<area shape="rect" id="node4" href="$class_step_repr___representation_item.html" title="StepRepr_RepresentationItem" alt="" coords="188,181,383,207"/>
+<area shape="rect" id="node5" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="5,181,140,207"/>
+<area shape="rect" id="node8" href="$class_step_kinematics___planar_curve_pair_range.html" title="Representation of STEP entity PlanarCurvePairRange. " alt="" coords="1519,5,1710,47"/>
+<area shape="rect" id="node9" href="$class_step_kinematics___rolling_curve_pair.html" title="Representation of STEP entity RollingCurvePair. " alt="" coords="1507,71,1722,98"/>
+<area shape="rect" id="node10" href="$class_step_kinematics___sliding_curve_pair.html" title="Representation of STEP entity SlidingCurvePair. " alt="" coords="1507,122,1722,149"/>
+<area shape="rect" id="node12" href="$class_step_kinematics___point_on_planar_curve_pair_with_range.html" title="Representation of STEP entity PointOnPlanarCurvePairWithRange. " alt="" coords="1512,173,1717,215"/>
+<area shape="rect" id="node14" href="$class_step_kinematics___point_on_surface_pair_with_range.html" title="Representation of STEP entity PointOnSurfacePairWithRange. " alt="" coords="1509,239,1721,280"/>
+<area shape="rect" id="node16" href="$class_step_kinematics___rolling_surface_pair.html" title="Representation of STEP entity RollingSurfacePair. " alt="" coords="1501,305,1728,331"/>
+<area shape="rect" id="node17" href="$class_step_kinematics___sliding_surface_pair.html" title="Representation of STEP entity SlidingSurfacePair. " alt="" coords="1501,355,1728,382"/>
+<area shape="rect" id="node18" href="$class_step_kinematics___surface_pair_with_range.html" title="Representation of STEP entity SurfacePairWithRange. " alt="" coords="1521,407,1709,448"/>
+</map>

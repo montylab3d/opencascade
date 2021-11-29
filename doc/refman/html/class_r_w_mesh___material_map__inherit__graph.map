@@ -1,0 +1,5 @@
+<map id="RWMesh_MaterialMap" name="RWMesh_MaterialMap">
+<area shape="rect" id="node3" href="$class_r_w_gltf___gltf_material_map.html" title="Material manager for exporting into glTF format. " alt="" coords="5,155,168,181"/>
+<area shape="rect" id="node4" href="$class_r_w_obj___obj_material_map.html" title="Material MTL file writer for OBJ export. " alt="" coords="192,155,355,181"/>
+<area shape="rect" id="node2" href="$class_standard___transient.html" title="Abstract class which forms the root of the entire Transient class hierarchy. " alt="" coords="113,5,247,32"/>
+</map>
